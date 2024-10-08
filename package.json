@@ -1,0 +1,14 @@
+{
+  "name": "get-outlook-event",
+  "version": "1.0.0",
+  "main": "index.html",
+  "description": "Create a block from one of today's events in the local Outlook .ost file.",
+  "author": "DavidJay43",
+  "license": "MIT",
+  "logseq": {
+    "id": "_g3yark971"
+  },
+  "dependencies": {
+    "@logseq/libs": "^0.0.17"
+  }
+}
